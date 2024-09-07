@@ -8,7 +8,7 @@ Ventricular
 Fusion
 Unknown
 ## Dataset
-The dataset is publicly available on Kaggle: ECG Heartbeat Dataset
+The dataset is publicly available on Kaggle: https://www.kaggle.com/datasets/shayanfazeli/heartbeat
 
 ## Files Used:
 mitbih_train.csv: Training data with 187 features and 1 target label
