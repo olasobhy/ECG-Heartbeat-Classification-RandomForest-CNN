@@ -52,3 +52,4 @@ Flatten layer
 <br>
 Dense output layer with softmax activation (for 5 categories)
 <br>
+Achieved an accuracy of 98.3%.
