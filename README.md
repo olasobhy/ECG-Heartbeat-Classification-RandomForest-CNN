@@ -32,8 +32,11 @@ A Random Forest model is used to classify the ECG data. To address class imbalan
 
 ## Key Steps:
 Applied SMOTE for class balancing.
+<br>
 Split the data into training and test sets.
+<br>
 Achieved an accuracy of 99.65%.
+<br>
 
 ### 2. Convolutional Neural Network (CNN)
 Implemented a CNN model to capture the time-series nature of ECG signals. The model consists of a Conv1D layer, MaxPooling1D, and a Dense output layer. We used sparse_categorical_crossentropy as the loss function and Adam optimizer.
